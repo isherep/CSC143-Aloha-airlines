@@ -1,6 +1,8 @@
 # Aloha-airlines
 
-This is an project I was working in my free time. . I asked instructor to provide some projects to practice while our program takes different version of a class taking different class.
+This is an project from other class, I worked during free time. Instructor of other class gave it to me as practice.
+
+This project focuses on OOP concepts, inheritance, 2D arrays, ArrayLists.
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 Here is a project description:
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
