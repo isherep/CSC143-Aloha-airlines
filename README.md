@@ -1,6 +1,6 @@
 # Aloha-airlines
 
-This is an project from other class, I worked during free time. Instructor of other class gave it to me as practice.
+This is an project from other CSC143 class, I worked during free time. Instructor of other class gave it to me as practice.
 
 This project focuses on OOP concepts, inheritance, 2D arrays, ArrayLists.
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
