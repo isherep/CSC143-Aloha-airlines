@@ -23,7 +23,7 @@ In addition, the company has introduced the Aloha Club. Customers who join the C
 
 **Customer Confirmations:**:memo:  each confirmation includes a customer name and a six-character confirmation code (alphabetic)1.  This data can be altered at any time.  Once a seat is booked by a customer, the confirmation is added to the (existing) seat they have reserved.   Each seat, then, either has a confirmation (booked) or not (not yet booked or released from a previous booking). 
 
-![Alt text](Diagram.JPG?raw=true "Diagram.JPG")
+![Alt text](Aloha/Diagram.JPG?raw=true "Diagram.JPG")
 **********************************************************************************************************************
 Client Code Requirements Client code must be able to… 
 **********************************************************************************************************************
