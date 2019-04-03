@@ -1,6 +1,6 @@
 # Aloha-airlines
 
-### Personal project. Implements a concept for a solution for the flight booking system. I was looking for something more challenging than a current class material and found this project while auditing other courses. The project supplies the necessary code for the client to create a basic booking system. Used Java, version control, object-oriented programming, 2D arrays of objects, Java Collections, JUnit
+### Personal project. Implements a concept for a solution for the flight booking system:airplane: I was looking for something more challenging than a current class material and found this project while auditing other courses. The project supplies the necessary code for the client to create a basic booking system. Used Java, version control, object-oriented programming, 2D arrays of objects, Java Collections, JUnit
 
 
 Aloha Airlines wants a proof of concept for a flight booking system. This project implements supplier code for them.  
